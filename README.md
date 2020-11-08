@@ -1,15 +1,14 @@
 ## 今天学习了MarkDown
 ###### MarkDown是一种超文本语言，今天我第一次学习了它。
 
-```Hello MarkDown !```
-```nihao```
-`ghjk`
 ```
-#!/usr/bin/env python3
-print("Hello, World!");
+Hello MarkDown !
 ```
+###### 接下来我还会学习:
 
-
+* Git的基础命令
+* Hexo框架
+* Hexo更换主题
 
 
 今天学习了MarkDown
