@@ -4,7 +4,7 @@
 ```Hello MarkDown !```
 ```nihao```
 `ghjk`
-```python
+```
 #!/usr/bin/env python3
 print("Hello, World!");
 ```
