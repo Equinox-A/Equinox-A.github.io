@@ -6,9 +6,11 @@ Hello MarkDown !
 ```
 ###### 接下来我还会学习:
 
-* Git的基础命令
-* Hexo框架
-* Hexo更换主题
+1. Git的基础命令
+1. Hexo框架
+1. Hexo更换主题
+
+###### 用命令行敲命令是—种Geek行为，我觉得还挺有趣的。
 
 
 今天学习了MarkDown
