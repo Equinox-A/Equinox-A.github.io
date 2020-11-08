@@ -1,9 +1,9 @@
 ## 今天学习了MarkDown
 ###### MarkDown是一种超文本语言，今天我第一次学习了它。
-`Hello MarkDown/n\n\tfghjk !
-64654654
-6546`
+
 ```Hello MarkDown !```
+```nihao```
+`ghjk`
 
 
 
